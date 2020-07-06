@@ -1,6 +1,6 @@
 # Shakesbot
 
-Shakesbot is a single layer stateful Recurrent Neural Network for text generation, in the style of Shakespeare!
+Shakesbot is a single layer stateful Recurrent Neural Network for text generation, in the style of Shakespeare! Please visit <https://github.com/BAK2K3/Shakesbot> for an online demonstration of this model.
 
 ## Installation
 
