@@ -2,6 +2,13 @@
 import os
 #Removed non-critical logs from TF
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
+
+#Check for testing model
+testing_file = os.path.isfile('shakesbot_test.h5')
+if not testing_file:
+    print("Shakesbot testing file not found! Please train use shakesbotbot_train.py or use the example model to continue!")
+    sys.exit(1)
+
 import argparse
 import sys
 
