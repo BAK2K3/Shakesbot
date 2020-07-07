@@ -1,6 +1,8 @@
 # Shakesbot
 
-Shakesbot is a single layer stateful Recurrent Neural Network for text generation, in the style of Shakespeare! Please visit <https://baknet.herokuapp.com/rnn/shakesbot> for an online demonstration of this model, or try the online binder![![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BAK2K3/Shakesbot/master)
+Shakesbot is a single layer stateful Recurrent Neural Network for text generation, in the style of Shakespeare! Please visit <https://baknet.herokuapp.com/rnn/shakesbot> for an online demonstration of this model, or try the online binder! 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BAK2K3/Shakesbot/master)
 
 ## Installation
 
